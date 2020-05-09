@@ -1,0 +1,10 @@
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Assignment\Assignment #2\Final Grade Calculator\Final Grade Calculator\bin\Debug\Final Grade Calculator.exe.config
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Assignment\Assignment #2\Final Grade Calculator\Final Grade Calculator\bin\Debug\Final Grade Calculator.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Assignment\Assignment #2\Final Grade Calculator\Final Grade Calculator\bin\Debug\Final Grade Calculator.pdb
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Assignment\Assignment #2\Final Grade Calculator\Final Grade Calculator\obj\Debug\Final Grade Calculator.csprojAssemblyReference.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Assignment\Assignment #2\Final Grade Calculator\Final Grade Calculator\obj\Debug\Final_Grade_Calculator.MainForm.resources
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Assignment\Assignment #2\Final Grade Calculator\Final Grade Calculator\obj\Debug\Final_Grade_Calculator.Properties.Resources.resources
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Assignment\Assignment #2\Final Grade Calculator\Final Grade Calculator\obj\Debug\Final Grade Calculator.csproj.GenerateResource.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Assignment\Assignment #2\Final Grade Calculator\Final Grade Calculator\obj\Debug\Final Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Assignment\Assignment #2\Final Grade Calculator\Final Grade Calculator\obj\Debug\Final Grade Calculator.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Assignment\Assignment #2\Final Grade Calculator\Final Grade Calculator\obj\Debug\Final Grade Calculator.pdb

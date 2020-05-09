@@ -1,0 +1,14 @@
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 3\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\bin\Debug\T03 P02 Temperature Conversion.exe.config
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 3\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\bin\Debug\T03 P02 Temperature Conversion.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 3\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\bin\Debug\T03 P02 Temperature Conversion.pdb
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 3\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\obj\Debug\T03 P02 Temperature Conversion.csprojAssemblyReference.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 3\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\obj\Debug\T03 P02 Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 3\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\obj\Debug\T03 P02 Temperature Conversion.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 3\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\obj\Debug\T03 P02 Temperature Conversion.pdb
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 03\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\bin\Debug\T03 P02 Temperature Conversion.exe.config
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 03\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\bin\Debug\T03 P02 Temperature Conversion.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 03\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\bin\Debug\T03 P02 Temperature Conversion.pdb
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 03\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\obj\Debug\T03 P02 Temperature Conversion.csprojAssemblyReference.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 03\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\obj\Debug\T03 P02 Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 03\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\obj\Debug\T03 P02 Temperature Conversion.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 03\T03 P02 Temperature Conversion\T03 P02 Temperature Conversion\obj\Debug\T03 P02 Temperature Conversion.pdb

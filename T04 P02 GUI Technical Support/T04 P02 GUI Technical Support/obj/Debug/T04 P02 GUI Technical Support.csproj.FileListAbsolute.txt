@@ -1,0 +1,10 @@
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P02 GUI Technical Support\T04 P02 GUI Technical Support\bin\Debug\T04 P02 GUI Technical Support.exe.config
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P02 GUI Technical Support\T04 P02 GUI Technical Support\bin\Debug\T04 P02 GUI Technical Support.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P02 GUI Technical Support\T04 P02 GUI Technical Support\bin\Debug\T04 P02 GUI Technical Support.pdb
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P02 GUI Technical Support\T04 P02 GUI Technical Support\obj\Debug\T04 P02 GUI Technical Support.csprojAssemblyReference.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P02 GUI Technical Support\T04 P02 GUI Technical Support\obj\Debug\T04_P02_GUI_Technical_Support.Form1.resources
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P02 GUI Technical Support\T04 P02 GUI Technical Support\obj\Debug\T04_P02_GUI_Technical_Support.Properties.Resources.resources
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P02 GUI Technical Support\T04 P02 GUI Technical Support\obj\Debug\T04 P02 GUI Technical Support.csproj.GenerateResource.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P02 GUI Technical Support\T04 P02 GUI Technical Support\obj\Debug\T04 P02 GUI Technical Support.csproj.CoreCompileInputs.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P02 GUI Technical Support\T04 P02 GUI Technical Support\obj\Debug\T04 P02 GUI Technical Support.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P02 GUI Technical Support\T04 P02 GUI Technical Support\obj\Debug\T04 P02 GUI Technical Support.pdb

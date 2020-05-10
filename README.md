@@ -1,2 +1,7 @@
 # Rapid App Development with C#
-- The projects here were done as part of the course work of CPRG-200-XM5, Software Developer Program at SAIT.
+- The projects here were done as part of the course work of a Software Developer Program at SAIT.
+- The projects are following; please note that each project includes a README file for the overview of the app/project.
+  - Temperature Conversion,
+  - GUI Trapezoid Area Calculator,
+  - GUI Technical Support,
+  - GUI Array Search

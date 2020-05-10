@@ -1,0 +1,10 @@
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 05\T05 P03 GUI Array Search\T05 P03 GUI Array Search\bin\Debug\T05 P03 GUI Array Search.exe.config
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 05\T05 P03 GUI Array Search\T05 P03 GUI Array Search\bin\Debug\T05 P03 GUI Array Search.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 05\T05 P03 GUI Array Search\T05 P03 GUI Array Search\bin\Debug\T05 P03 GUI Array Search.pdb
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 05\T05 P03 GUI Array Search\T05 P03 GUI Array Search\obj\Debug\T05 P03 GUI Array Search.csprojAssemblyReference.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 05\T05 P03 GUI Array Search\T05 P03 GUI Array Search\obj\Debug\T05_P03_GUI_Array_Search.mainForm.resources
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 05\T05 P03 GUI Array Search\T05 P03 GUI Array Search\obj\Debug\T05_P03_GUI_Array_Search.Properties.Resources.resources
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 05\T05 P03 GUI Array Search\T05 P03 GUI Array Search\obj\Debug\T05 P03 GUI Array Search.csproj.GenerateResource.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 05\T05 P03 GUI Array Search\T05 P03 GUI Array Search\obj\Debug\T05 P03 GUI Array Search.csproj.CoreCompileInputs.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 05\T05 P03 GUI Array Search\T05 P03 GUI Array Search\obj\Debug\T05 P03 GUI Array Search.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\T 05\T05 P03 GUI Array Search\T05 P03 GUI Array Search\obj\Debug\T05 P03 GUI Array Search.pdb

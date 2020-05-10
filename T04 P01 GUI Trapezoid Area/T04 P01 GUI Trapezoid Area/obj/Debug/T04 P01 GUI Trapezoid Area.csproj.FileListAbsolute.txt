@@ -1,0 +1,10 @@
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P01 GUI Trapezoid Area\T04 P01 GUI Trapezoid Area\bin\Debug\T04 P01 GUI Trapezoid Area.exe.config
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P01 GUI Trapezoid Area\T04 P01 GUI Trapezoid Area\bin\Debug\T04 P01 GUI Trapezoid Area.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P01 GUI Trapezoid Area\T04 P01 GUI Trapezoid Area\bin\Debug\T04 P01 GUI Trapezoid Area.pdb
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P01 GUI Trapezoid Area\T04 P01 GUI Trapezoid Area\obj\Debug\T04 P01 GUI Trapezoid Area.csprojAssemblyReference.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P01 GUI Trapezoid Area\T04 P01 GUI Trapezoid Area\obj\Debug\T04_P01_GUI_Trapezoid_Area.Form1.resources
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P01 GUI Trapezoid Area\T04 P01 GUI Trapezoid Area\obj\Debug\T04_P01_GUI_Trapezoid_Area.Properties.Resources.resources
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P01 GUI Trapezoid Area\T04 P01 GUI Trapezoid Area\obj\Debug\T04 P01 GUI Trapezoid Area.csproj.GenerateResource.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P01 GUI Trapezoid Area\T04 P01 GUI Trapezoid Area\obj\Debug\T04 P01 GUI Trapezoid Area.csproj.CoreCompileInputs.cache
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P01 GUI Trapezoid Area\T04 P01 GUI Trapezoid Area\obj\Debug\T04 P01 GUI Trapezoid Area.exe
+C:\Users\Yeji Soh\Desktop\Software Developer Program\C#\Mini-Projects\Day 4\T04 P01 GUI Trapezoid Area\T04 P01 GUI Trapezoid Area\obj\Debug\T04 P01 GUI Trapezoid Area.pdb
